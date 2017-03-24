@@ -9,11 +9,15 @@ Lo más destacable de este documento es la invitación que hacen dos ministros p
 Por otra parte, expertos de diferentes áreas de la economía exponen el impacto específico en su ámbito de trabajo.
 
 2. Don Tapscott.
+
 Quizás el principal evangelizador de este tecnología. Su [charla en TED](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=es
 ) marca un punto de inflexión en la comprensión de su potencial transformador.
 
+3. Entender Blockchain.
 
+Con mucho - en mi opinión - este [sitio web del MIT](http://blockchain.mit.edu/how-blockchain-works) es la mejor forma de entender lo que es Blockchain.
 
+Además del video que explica los conceptos clave - los pilares - podéis jugar con ellos en la propia web.
 
 
 
