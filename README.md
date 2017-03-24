@@ -1,5 +1,10 @@
 ## Notas sobre la tecnología Blockchain
 
+A continuación, propongo la relación de lecturas mínima para tener una idea del impacto que se le supone a esta tecnología:
+
+Este es , en mi opinión, la visión más estratégica expuesta hasta el momento por un Gobierno : [Gobierno Inglés] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
+
+
 You can use the [editor on GitHub](https://github.com/urquidi/blockchain-notas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
