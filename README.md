@@ -2,7 +2,12 @@
 
 A continuación, propongo la relación de lecturas mínima para tener una idea del impacto que se le supone a esta tecnología:
 
-Este es , en mi opinión, la visión más estratégica expuesta hasta el momento por un Gobierno : [Gobierno Inglés] (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
+Este es , en mi opinión, la visión más estratégica expuesta hasta el momento por un Gobierno : [Gobierno Inglés](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
+
+Lo más destacable de este documento es la invitación que hacen dos ministros para que los diferentes actores de la Economía de UK lideren globalmente la aplicación de esta tecnología.
+
+Por otra parte, expertos de diferentes áreas de la economía exponen el impacto específico en sun ámbito de trabajo.
+
 
 
 You can use the [editor on GitHub](https://github.com/urquidi/blockchain-notas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
