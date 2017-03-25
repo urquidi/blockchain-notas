@@ -64,11 +64,11 @@ Se me olvidaba... ¡cachis!... por favor, en importante que insista: Linux Solut
 
 ## Resumen
 
-Con esta información de contexto, entiendo que es suficiente para que podamo dialogar para establecer un consendo sobre cómo se quiere abordar este desafío en nuestra organización.
+Con esta información de contexto, entiendo que es suficiente para que podamos dialogar sobre un consenso que permita abordar este desafío en nuestra organización.
 
+He recomendado públicamente la [adscripción a Linux Foundation](https://www.hyperledger.org/about/join) como vía de evolución de nuestra organización en esta nueva frontera de nuestro negocio. Considero que es "la vía" de crecimiento.
 
-
-
+Finalmente, os dejo con una [guía](https://chain.com/docs/core/get-started/five-minute-guide) que os muestra la facilidad de "participación" en un Blockchain. Tengo que confesar que yo tardé algo más... ya se sabe... :older_man:
 
 
 
