@@ -27,5 +27,38 @@ Además del video que explica los conceptos clave - los pilares - podéis **juga
 
 La verdad es que [esta exposición de Barclays](https://www.youtube.com/watch?v=YIH4MJf6kH8) es impresionante: un banco que hace un prototipo rápido con un equipo ágil y sus propios medios con tecnología Open .... y lo cuenta .... ¿Qué está pasando en el mundo? ;)
 
+2. Everledger
+
+Lo anterior palidece cuando se compara con: [Everledger](https://www.everledger.io/) , os dejo a vosotros los comentarios.
+
+## Actores principales en el desarrollo de esta tecnología
+
+Lo primero que hay que decir es que el potencial de esta tecnología afecta al "statu quo". El poder financiero - que por muy codicioso que sea no es gilipollas - ha sido el primero en intentar domesticar esta tecnología para poder seguir practicando la "agnotología" y mantener al mundo en la ignorancia. (Ya se sabe: Pan y Circo mientras ellos cuentan los billetes).
+
+1. Chain
+
+En este contexto es "excelente" el curro hecho por [chain.com](https://chain.com/), pero no olvidéis que lo que ofrecen es  un "jardín cerrado" en el que vosotros aportéis el valor. Se les nota un pelín el hedor que expelen. Por si tenéis alguna duda, de quien [está detrás de esta empresa](https://chain.com/press-releases/chain-raises-30-dollars-million-from-financial-industry-leaders/)
+
+Por cierto el link anterior, también os ayuda a considerar lo que significa - en euros - construir tu propia tecnología Blockchain. 
+
+Sin detrimento de lo anterior, es un plataforma muy buena para empezar a trabajar en Blockchain. Un buen diseño de un Domain Specific Language (DSL) -por parte del arquitecto de la solución - permite que el "valor" se abstraiga de la capa opetariva, por lo que transportar "el valor" entre cadenas es sumamente factible.
+
+2. Otros
+
+Hay muchos, quizás Ethereum sea el más destacable por su orientación abierta: https://www.ethereum.org/
+
+## El Actor - en mi opinión -
+
+1. Hyperledger
+
+Hyperledger es al Blockchain lo que Linux es al mundo Open.
+
+Si bien sus [principales proyectos](https://www.hyperledger.org/community/projects) están incubando, no me cabe la menor duda de que será la corriente principal en el desarollo de los servicios más disruptivos sociales y económicos. (No se lo digías a nadie pero hasta IBM forma parte del [consorcio](https://www.hyperledger.org/about/members)
+
+Se me olvidaba... ¡cachis!... por favor, en importante que insista: Linux Solutions no es [Linux Foundation](https://www.linuxfoundation.org/), :joy: :joy: :joy: :joy: 
+
+
+
+
 
 
