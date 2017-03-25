@@ -1,3 +1,8 @@
+## Aviso Legal
+
+La información que se registra en este documento es una compilación de referencias sobre la tecnología Blockchain y opiniones que sólo vinculan a su autor.
+
+
 ## Notas sobre la tecnología Blockchain
 
 A continuación, propongo la relación de lecturas mínima para tener una idea del impacto que se le supone a esta tecnología:
@@ -25,7 +30,7 @@ Además del video que explica los conceptos clave - los pilares - podéis **juga
 
 1. Barclays
 
-La verdad es que [esta exposición de Barclays](https://www.youtube.com/watch?v=YIH4MJf6kH8) es impresionante: un banco que hace un prototipo rápido con un equipo ágil y sus propios medios con tecnología Open .... y lo cuenta .... ¿Qué está pasando en el mundo? ;)
+La verdad es que [esta exposición de Barclays](https://www.youtube.com/watch?v=YIH4MJf6kH8) es impresionante: un banco que hace un prototipo rápido con un equipo ágil y sus propios medios con tecnología Open .... y lo cuenta .... ¿Qué está pasando en el mundo? :smiling_imp::smiling_imp::smiling_imp:
 
 2. Everledger
 
@@ -56,6 +61,12 @@ Hyperledger es al Blockchain lo que Linux es al mundo Open.
 Si bien sus [principales proyectos](https://www.hyperledger.org/community/projects) están incubando, no me cabe la menor duda de que será la corriente principal en el desarollo de los servicios más disruptivos sociales y económicos. (No se lo digías a nadie pero hasta IBM forma parte del [consorcio](https://www.hyperledger.org/about/members)
 
 Se me olvidaba... ¡cachis!... por favor, en importante que insista: Linux Solutions no es [Linux Foundation](https://www.linuxfoundation.org/), :joy: :joy: :joy: :joy: 
+
+## Resumen
+
+Con esta información de contexto, entiendo que es suficiente para que podamo dialogar para establecer un consendo sobre cómo se quiere abordar este desafío en nuestra organización.
+
+
 
 
 
