@@ -2,6 +2,8 @@
 
 La información que se registra en este documento es una compilación de referencias sobre la tecnología Blockchain y opiniones que sólo vinculan a su autor.
 
+Se trata de un documento abierto.
+
 
 ## Notas sobre la tecnología Blockchain
 
@@ -54,7 +56,7 @@ Hay muchos, quizás Ethereum sea el más destacable por su orientación abierta:
 
 ## El Actor - en mi opinión -
 
-1. Hyperledger
+1. Hyperledger (Linux Foundation)
 
 Hyperledger es al Blockchain lo que Linux es al mundo Open.
 
@@ -69,7 +71,5 @@ Con esta información de contexto, entiendo que es suficiente para que podamos d
 He recomendado públicamente la [adscripción a Linux Foundation](https://www.hyperledger.org/about/join) como vía de evolución de nuestra organización en esta nueva frontera de nuestro negocio. Considero que es "la vía" de crecimiento.
 
 Finalmente, os dejo con una [guía](https://chain.com/docs/core/get-started/five-minute-guide) que os muestra la facilidad de "participación" en un Blockchain. Tengo que confesar que yo tardé algo más... ya se sabe... :older_man:
-
-
 
 
